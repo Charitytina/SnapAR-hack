@@ -2,5 +2,5 @@
 
 ## Team
 
-Charitytina
-Joetech
+- Charitytina
+- Joetech
